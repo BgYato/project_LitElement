@@ -1,5 +1,5 @@
 {
-  "name": "project_litelement",
+  "name": "clase_lit",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "lit-element": "^4.0.0"
+    "lit-element": "^3.0.0-rc.4"
   }
 }
